@@ -38,7 +38,9 @@ This project provides a foundation for handling API requests, focusing on asynch
    - API Documentation: `http://localhost:8081/api-docs`
    - Health Check: `http://localhost:8081/health`
 
-## Assignments & Requirements
+## Assignments
+
+Create an application with 2 pages, each page for each api assigment.
 
 ### Slow Search API (Country Search Optimization)
 
